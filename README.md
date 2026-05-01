@@ -18,7 +18,7 @@ to methods that change data, and off you go. We're trying to use sensible defaul
 
 # Status
 
-GraQL is about one step beyond an experiment. There's a reason you'd need to clone this repo to use it.
+GraQL is experimental. There's a reason you'd need to clone this repo to use it.
 
 ## Working*
 
