@@ -49,3 +49,4 @@ See LICENSE
 name.
 2. "GraphQL" is published by the [The GraphQL Foundation](https://graphql.org/)
 
+CATE-1288 check
